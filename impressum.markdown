@@ -15,15 +15,12 @@ Handelsregister: HRB 25750  <br />
 Registergericht: Amtsgericht Aachen
 
 Vertreten durch:
--  Dr.-Ing. Jan Moritz Joseph
+- Jan Moritz Joseph
 - Thomas Zimmermann
 - Maximilian Bartel
 
-Telefon: +49 241 TODO  <br />
-E-Mail: info(at)roofline(.)ai
-
-Umsatzsteuer-ID:
-Umsatzsteuer-Identifikationsnummer gem. § 27 a Umsatzsteuergesetz:
+Telefon: +49 241 92137738  <br />
+E-Mail: joseph(at)roofline(.)ai
 
 
 
