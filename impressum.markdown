@@ -11,7 +11,7 @@ RooflineAI GmbH  <br />
 Ronheider Weg 6 <br />
 52066 Aachen
 
-Handelsregister: HRB 25750  <br />
+Handelsregister: HRB 27590  <br />
 Registergericht: Amtsgericht Aachen
 
 Vertreten durch:
