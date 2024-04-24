@@ -6,12 +6,12 @@ layout: page
 title: " "
 ---
 
-# We remove the adoption barrier for sustainable AI comupting.
+# We remove the adoption barrier for sustainable AI computing.
 
-RooflineAI provides a versatile Software Development Kit for AI computing on device. We revolutionize the deployment for AI models to edge chips, making a seamless transition to power-efficient systems possible. 
+RooflineAI provides a versatile Software Development Kit for AI computing on a device. We revolutionize the deployment of AI models to edge chips, making a seamless transition to power-efficient systems possible. 
 
 # Locations
-RooflineAI is located at the heart of Europe in Cologne and Aachen, Germany. We are remote friendly.
+RooflineAI is located at the heart of Europe in Cologne and Aachen, Germany. We are remote-friendly.
 
 # Linkedin
 [Get in touch!](https://www.linkedin.com/company/rooflineai/)
