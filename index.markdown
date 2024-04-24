@@ -6,7 +6,7 @@ layout: page
 title: " "
 ---
 
-# We remove the adotion barrier for sustainable AI comupting.
+# We remove the adoption barrier for sustainable AI comupting.
 
 RooflineAI provides a versatile Software Development Kit for AI computing on device. We revolutionize the deployment for AI models to edge chips, making a seamless transition to power-efficient systems possible. 
 
